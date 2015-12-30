@@ -16,7 +16,6 @@ function readText() {
   var boxWithText = document.getElementById("textbox");
   alert(boxWithText.innerHTML);
 }
-
 // Other useful functions:
 
 // Find by tag name:
